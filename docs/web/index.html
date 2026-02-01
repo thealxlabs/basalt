@@ -1066,4 +1066,20 @@ function switchExample(name) {
 }
 
 // ─── Smooth nav links ───
-document.querySel
+document.querySelectorAll('.nav-links a').forEach(link => {
+  link.addEventListener('click', function(e) {
+    e.preventDefault();
+    const targetId = this.getAttribute('href').slice(1);
+    const targetEl = document.getElementById(targetId);
+    if(targetEl) {
+      window.scrollTo({
+        top: targetEl.offsetTop - 80,
+        behavior: 'smooth'
+      });
+    }
+  });
+});
+</script>
+
+</body>
+</html>
