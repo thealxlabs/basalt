@@ -191,5 +191,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Oberhalsi** ([@Oberhalsi](https://github.com/oberhalsi)) & **Alexander Wondwossen** ([@alxgraphy](https://github.com/alxgraphy))  
+**Oberhalsi** ([@Oberhalsi](https://github.com/oberhalsi)) & **Alexander Wondwossen** ([@thealxlabs](https://github.com/thealxlabs))  
 Made with ❤️ from two kids who had an idea in Toronto, Canada 🇨🇦
